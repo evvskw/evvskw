@@ -31,4 +31,7 @@ Feel free to connect with me on my portfolio link above or reach out for collabo
 
 Thank you for visiting my profile! 😊
 
-<a href="https://discord.com/users/1218611955917525083"><img src="https://lanyard-profile-readme.vercel.app/api/1218611955917525083?borderRadius=25px&bg=#282a36&showDisplayName=true&animated=true" /></a>
+<br>
+<div align="left">
+<a href="https://discord.com/users/1218611955917525083"><img src="https://lanyard-profile-readme.vercel.app/api/1218611955917525083?borderRadius=25px&bg=#282a36&showDisplayName=true&animated=true"/></a>
+</div>
