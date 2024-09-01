@@ -15,7 +15,7 @@ I specialize in developing custom Discord bots tailored to different needs, from
 
 ## 🚀 My Portfolio
 
-You can explore my projects and learn more about my work on my portfolio website: [evvsk's Portfolio](https://linktr.ee/evvsk).
+You can explore my projects and learn more about my work on my portfolio website: [Click here](https://linktr.ee/evvsk).
 
 ## 🌱 What I'm Learning
 
@@ -25,9 +25,9 @@ I'm constantly enhancing my skills and currently exploring:
 - Cloud computing and DevOps
 - New techniques and tools for creating Discord bots
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
-Feel free to connect with me on my portfolio link above or reach out for collaborations, projects, or just a chat about tech or Discord bot development!
+[Feel free to connect me for collaborations, projects, or just a chat about tech or Discord bot development!](https://discord.com/users/1218611955917525083)
 
 Thank you for visiting my profile! 😊
 
