@@ -30,8 +30,3 @@ I'm constantly enhancing my skills and currently exploring:
 [Feel free to connect me for collaborations, projects, or just a chat about tech or Discord bot development!](https://discord.com/users/1218611955917525083)
 
 Thank you for visiting my profile! 😊
-
-<br>
-<div align="left">
-<a href="https://discord.com/users/1218611955917525083"><img src="https://lanyard-profile-readme.vercel.app/api/1218611955917525083?borderRadius=25px&bg=#282a36&showDisplayName=true&animated=true"/></a>
-</div>
