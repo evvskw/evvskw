@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** and a passionate **Discord Bot Developer**. I enj
 
 - **Languages:** Java, JavaScript, Go, Python, Bash, Batch
 - **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** Java, Go, Python
+- **Back-End:** Java, Python
 - **Discord Bot Development:** JavaScript (discord.js), Python (discord.py)
 
 ## 🤖 Discord Bot Development
@@ -20,7 +20,6 @@ You can explore my projects and learn more about my work on my portfolio website
 ## 🌱 What I'm Learning
 
 I'm constantly enhancing my skills and currently exploring:
-- Advanced Go programming
 - Modern JavaScript frameworks (e.g., React, Angular, Vue)
 - Cloud computing and DevOps
 - New techniques and tools for creating Discord bots
